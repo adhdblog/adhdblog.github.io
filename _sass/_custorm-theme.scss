@@ -1,0 +1,108 @@
+/* Links */
+
+a:hover{
+    text-decoration: none;
+}
+
+.post-link{
+    display: inline-block;
+}
+
+/* Posts */
+.post-title {
+    font-size: 30px;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: center;
+    @include media-query($on-laptop) {
+        font-size: 25px;
+    }
+}
+
+/* Social Links */
+
+.social-media-list {
+    > li {
+        width: 33%;
+        float: left;
+        /* padding-left: 5px; */
+
+        a.social-link{
+
+        }
+        .icon {
+            margin-right: 2px;
+            vertical-align: -3px;
+            -webkit-filter: grayscale(100%);
+            filter: grayscale(100%);
+        }
+
+        a[href*='plus.google.com']:before {content: url('./icons/plus.google.png'); margin-right: 2px; vertical-align: -3px;}
+        a[href*='codeforces.com']:before {content: url('./icons/codeforces.png'); margin-right: 2px; vertical-align: -3px;}
+        a[href*='topcoder.com']:before {content: url('./icons/topcoder.png'); margin-right: 2px; vertical-align: -3px;}
+        a[href*='facebook.com']:before { content: url('./icons/facebook.png'); margin-right: 2px; vertical-align: -3px; }
+        a[href*='github.com']:before { content: url('./icons/github.png'); margin-right: 2px; vertical-align: -3px; }
+        a[href*='linkedin.com']:before { content: url('./icons/linkedin.png'); margin-right: 2px; vertical-align: -3px; }
+        a[href*='stackoverflow.com']:before { content: url('./icons/stackoverflow.png'); margin-right: 2px; vertical-align: -3px; }
+        a[href*='twitter.com']:before { content: url('./icons/twitter.png'); margin-right: 2px; vertical-align: -3px; }
+        a[href*='weibo.com']:before { content: url('./icons/weibo.png'); margin-right: 2px; vertical-align: -3px; }
+        a[href*='zhihu.com']:before { content: url('./icons/zhihu.png'); margin-right: 2px; vertical-align: -3px; }
+        a[href*='douban.com']:before { content: url('./icons/douban.png'); margin-right: 2px; vertical-align: -3px; }
+        a[href*='quora.com']:before { content: url('./icons/quora.png'); margin-right: 2px; vertical-align: -3px; }
+    }
+}
+
+.footer-col-1 {
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
+}
+
+.rss-subscribe {
+    text-align: right;
+}
+
+/* Tags Page */
+
+.tag-list{
+    >a{
+        font-size: 1.5em;
+        margin-left: 5px;
+        margin-right: 5px;
+        font-weight: bold;
+    }
+
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-bottom: 8px;
+}
+
+.posts-tag {
+    margin-left:5px;
+
+    h2,h3 {
+        margin-bottom: 2px;
+    }
+
+    >ul{
+        li{
+            h3{
+                a:first-of-type{
+                    margin-right:10px;
+                    small{
+                        font-style: italic;
+                    }
+                }
+                .tag{
+                    margin-left: 0.2em;
+                    font-size: 0.8em;
+                    vertical-align: middle;
+                }
+            }
+        }
+    }
+}

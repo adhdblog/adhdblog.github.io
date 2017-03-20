@@ -18,7 +18,6 @@ social_links: [
 
 ]
 # Build settings
-markdown: rdiscount
 highlighter: pygments
 # encoding: utf-8
 excerpt_separator: ""

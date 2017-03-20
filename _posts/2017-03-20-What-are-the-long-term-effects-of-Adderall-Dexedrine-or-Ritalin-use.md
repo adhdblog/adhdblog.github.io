@@ -6,21 +6,21 @@ categories: ADHD confusion
 tags: ADHD confusion
 ---
 
-[What are the long term effects of Adderall, Dexedrine, or Ritalin use?][1]
+[What are the long term effects of Adderall, Dexedrine, or Ritalin use?][1]  
 长期使用 Adderall, Dexedrine(右旋安非他明), or 利他林的影响？(*这些个毒*)  
 
-**Short summary**: Adderall/Dexedrine can be neurotoxic in the long run (by damaging dopamine neurons) while Ritalin does not have as much neurotoxicity potential. Surprisingly, when Ritalin *and* Adderall are mixed together, Ritalin can actually help counteract Adderall's neurotoxicity potential.
+**Short summary**: Adderall/Dexedrine can be neurotoxic in the long run (by damaging dopamine neurons) while Ritalin does not have as much neurotoxicity potential. Surprisingly, when Ritalin *and* Adderall are mixed together, Ritalin can actually help counteract Adderall's neurotoxicity potential.  
 **简介**：长期来看Adderall/Dexedrine(右旋苯丙胺)有神经毒性 (对多巴胺神经元的损害)，利他林却却没有这么大的神经毒害的潜力。令人惊奇的是利他林和Adderall混用的时候，利他林能抵消Adderall的神经毒性。  
 
-Whether or not Adderall's neurotoxicity applies to those who take doses relevant to ADD is unclear. Most of the studies use amphetamine does higher than those used for treating ADHD, but Amphetamine Treatment Similar to That Used in the Treatment of Adult Attention-Deficit/Hyperactivity Disorder Damages Dopaminergic Nerve Endings in the Striatum of Adult Nonhuman Primates uses doses similar to those used for treating ADHD (though I'm not sure if this paper shows neurotoxicity as opposed to mere downregulation).
+Whether or not Adderall's neurotoxicity applies to those who take doses relevant to ADD is unclear. Most of the studies use amphetamine does higher than those used for treating ADHD, but Amphetamine Treatment Similar to That Used in the Treatment of Adult Attention-Deficit/Hyperactivity Disorder Damages Dopaminergic Nerve Endings in the Striatum of Adult Nonhuman Primates uses doses similar to those used for treating ADHD (though I'm not sure if this paper shows neurotoxicity as opposed to mere downregulation).  
 对于使用 Adderall 的ADD患者，Adderall 是否有神经毒性并不清楚。大多数的研究中使用安非他命剂量高于 治疗ADHD的剂量，但是 [安非他命治疗方案(动物实验) 在和 用其治疗ADHD剂量类似 的时候，非灵长类动物纹状体的神经末梢的损害](http://jpet.aspetjournals.org/content/315/1/91.long)  
 
-Tolerance can happen with either, but tolerance is not neurotoxicity as it can be reversed by taking breaks.
+Tolerance can happen with either, but tolerance is not neurotoxicity as it can be reversed by taking breaks.  
 这两药物都可能会产生耐药性，但和神经毒性性质不一样的是，耐药性可以通过服药间断来恢复。  
-When one takes either of these drugs when young, there can be subtle developmental effects too. They could lead to neurons "believing" that there is more dopamine than there actually is, which could lead to mature circuits with reduced dopamine signalling once they fully mature (see Performance enhancement at the cost of potential brain plasticity: neural ramifications of nootro... for more details).
+When one takes either of these drugs when young, there can be subtle developmental effects too. They could lead to neurons "believing" that there is more dopamine than there actually is, which could lead to mature circuits with reduced dopamine signalling once they fully mature (see Performance enhancement at the cost of potential brain plasticity: neural ramifications of nootro... for more details).  
 如果一个人年轻时服用这两个药其中之一，也会有微妙的发育影响。让已经 在更少的多巴胺环境中 成熟的神经回路 中的神经元 “相信”会有更多的多巴胺，从而导致神经回路成型。(以潜在的脑可塑性 代价下 的效能提高。。更多的细节)  
 
-So in short - there are three effects: tolerance, neurotoxicity, and developmental. Tolerance is reversible, while neurotoxicity is not. Developmental effects are the most complicated, and still difficult to adequately summarize.
+So in short - there are three effects: tolerance, neurotoxicity, and developmental. Tolerance is reversible, while neurotoxicity is not. Developmental effects are the most complicated, and still difficult to adequately summarize.  
 总之，三个效果：耐药性，神经毒性，发展性。耐药性是可逆的，但神经毒性不是。发育的影响是最复杂的，很难很好的汇总(译者注：这里有 说头的)。  
 
 
